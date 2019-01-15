@@ -16,7 +16,7 @@ Description:
 
 Full dataset is available here: `LINK`
 
-This data is lisenced by Rossiya Sevodnya news agency ([ria.ru](http://ria.ru)) and JSC VKontakte ([VK.com](https://vk.com)) under CC-BY-ND-NC lincense. The license could be accessed [here](./LICENSE). The Russian version of the same license couldbe accessed [here](./LICENSE.ru).
+This data is lisensed by Rossiya Sevodnya news agency ([ria.ru](http://ria.ru)) and JSC VKontakte ([VK.com](https://vk.com)) under CC-BY-ND-NC license. The license could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
 
 If you're using the data please consider citing the mentioned paper:
 
