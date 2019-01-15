@@ -9,6 +9,7 @@ Daniil Gavrilov, Pavel Kalaidin, and Valentin Malykh, Self-Attentive Model for H
 Description:
 
 `ria_1k.json` contains the first 1k news.
+
 `ria.json.gz` contains full dataset. [link](https://github.com/kalaidin/news_dataset/raw/master/ria.json.gz) to start downloading.
 
 `text` is the news body, while `title` is the news headline.
