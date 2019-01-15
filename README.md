@@ -10,11 +10,9 @@ Description:
 
 `ria_1k.json` contains the first 1k news.
 
-
 `text` is the news body, while `title` is the news headline.
 
-
-Full dataset is available here: `LINK`
+Full dataset is available here: `ria.json.gz`
 
 This data is lisensed by Rossiya Sevodnya news agency ([ria.ru](http://ria.ru)) and JSC VKontakte ([VK.com](https://vk.com)) under CC-BY-ND-NC license. The license could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
 
