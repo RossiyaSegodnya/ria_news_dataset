@@ -8,13 +8,13 @@ Daniil Gavrilov, Pavel Kalaidin, and Valentin Malykh. Self-Attentive Model for H
 
 ## Description
 
+Full dataset contains _1003869_ Russian language news documents from _January, 2010_ to _December, 2014_.
+
 * [`ria_1k.json`](./ria_1k.json) contains the first 1000 news documents from the dataset.
 
 * [`ria.json.gz`](./ria.json.gz) is full GZip'ed dataset.
 
 A news document consists of two fields: `text` is a document body, while `title` is a news headline.
-
-Full dataset contains _1003869_ news documents from _January, 2010_ to _December, 2014_.
 
 ## License
 This data is lisensed by Rossiya Sevodnya news agency ([ria.ru](http://ria.ru)) under CC-BY-ND-NC license. The license text could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
