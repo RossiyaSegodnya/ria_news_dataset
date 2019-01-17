@@ -1,4 +1,4 @@
-# "Rossiya Sevodnya" news dataset
+# "Rossiya Segodnya" news dataset
 
 This repository contains a news dataset presented in the paper:
 
@@ -17,7 +17,7 @@ Full dataset contains _1003869_ Russian language news documents from _January, 2
 A news document consists of two fields: `text` is a document body, while `title` is a news headline.
 
 ## License
-This data is lisensed by Rossiya Sevodnya news agency ([ria.ru](http://ria.ru)) under CC-BY-ND-NC license. The license text could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
+This data is lisensed by Rossiya Segodnya news agency ([ria.ru](http://ria.ru)) under CC-BY-ND-NC license. The license text could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
 
 ## Misc
 If you're using the data in a research please consider citing the mentioned paper:
