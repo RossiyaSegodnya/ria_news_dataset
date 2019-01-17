@@ -17,7 +17,7 @@ A news document consists of two fields: `text` is a document body, while `title`
 Full dataset contains _1003869_ news documents from _January, 2010_ to _December, 2014_.
 
 ## License
-This data is lisensed by Rossiya Sevodnya news agency ([ria.ru](http://ria.ru)) and JSC VKontakte ([VK.com](https://vk.com)) under CC-BY-ND-NC license. The license text could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
+This data is lisensed by Rossiya Sevodnya news agency ([ria.ru](http://ria.ru)) under CC-BY-ND-NC license. The license text could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
 
 ## Misc
 If you're using the data in a research please consider citing the mentioned paper:
