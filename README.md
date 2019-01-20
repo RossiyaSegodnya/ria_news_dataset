@@ -10,6 +10,8 @@ Daniil Gavrilov, Pavel Kalaidin, and Valentin Malykh. Self-Attentive Model for H
 
 Full dataset contains _1003869_ Russian language news documents from _January, 2010_ to _December, 2014_.
 
+* [`ria_20.json`](./ria_20.json) contains the first 20 news documents from the dataset.
+
 * [`ria_1k.json`](./ria_1k.json) contains the first 1000 news documents from the dataset.
 
 * [`ria.json.gz`](./ria.json.gz) is full GZip'ed dataset.
