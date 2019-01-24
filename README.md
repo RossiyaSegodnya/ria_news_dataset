@@ -2,9 +2,7 @@
 
 This repository contains a news dataset presented in the paper:
 
-Daniil Gavrilov, Pavel Kalaidin, and Valentin Malykh. Self-Attentive Model for Headline Generation. 41st European Conference on Information Retrieval, 2019.
-
-`LINK TO THE PAPER, to be added`
+Daniil Gavrilov, Pavel Kalaidin, and Valentin Malykh. Self-Attentive Model for Headline Generation. 41st European Conference on Information Retrieval, 2019. __[arXiv:1901.07786 [cs.CL]](https://arxiv.org/abs/1901.07786)__
 
 ## Description
 
