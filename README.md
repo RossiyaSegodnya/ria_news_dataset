@@ -14,7 +14,7 @@ Full dataset contains _1003869_ Russian language news documents from _January, 2
 
 * [`ria.json.gz`](./ria.json.gz) is full GZip'ed dataset.
 
-A news document consists of two fields: `text` is a document body, while `title` is a news headline.
+Dataset format: each row contains a JSON document that consists of two fields: `text` is a document body, while `title` is a news headline.
 
 ## License
 This data is lisensed by Rossiya Segodnya news agency ([ria.ru](http://ria.ru)) under CC-BY-ND-NC license. The license text could be accessed [here](./LICENSE). The Russian version of the same license could be accessed [here](./LICENSE.ru).
