@@ -4,6 +4,8 @@ This repository contains a news dataset presented in the paper:
 
 Daniil Gavrilov, Pavel Kalaidin, and Valentin Malykh. Self-Attentive Model for Headline Generation. 41st European Conference on Information Retrieval, 2019. __[arXiv:1901.07786 [cs.CL]](https://arxiv.org/abs/1901.07786)__
 
+To download the dataset please use a direct [link](https://github.com/RossiyaSegodnya/ria_news_dataset/raw/master/ria.json.gz) or clone the repository using `git lfs`.
+
 ## Description
 
 Full dataset contains _1003869_ Russian language news documents from _January, 2010_ to _December, 2014_.
